@@ -1,21 +1,16 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-B   | Ali Gökdemir | 362
+10-B   | İbrahim Zafer Türker | 393
+10-B   | Umutcan Alkan | 468  
 
-#  (buraya proje başlığını yazınız)
+# SU SIÇRAMASI
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+Bu deneyimizde önce 50 cm yükseklikten suya katı cisimler atacağız. Daha sonra katı cisimlerin suya düşüp çarpmasıyla birlikte ortaya çıkan su sıçramasının boyutunu hesaplayacağız. Tahminimiz doğrultusunda bu su sıçrama boyutunu etkileyen faktörler şunlar : Yer çekimi ivmesi, cismin şekli, cismin yoğunluğu, cismin suya düşerken elde ettiği hız, adezyon ve kohezyon kuvveti. Su sıçraması yer çekiminin tersi yönünde olacağı için yer çekimi bu sıçramayı azaltan bir etki uygulayacaktır. Gezegen değiştirmedikçe yer çekimi ivmesi sabit kalacağından deneylerimizde sıçramayı aynı miktarda etkileyecektir. Cismin şekli suya çarptığında su sıçramasının da şeklini etkileyecektir diye düşünüyoruz. Cismin yoğunluğu suda yüzme , askıda kalma veya batma durumunu belirleyecektir dolayısıyla sıçramayı da etkileyecektir. Cisim hızlandıkça sıçrama miktarı artar diye tahmin ediyoruz. Adezyon - kohezyon ilişkisine bakacağız. Bu konular hakkında bildiklerimizin de doğruluğunu test ederek araştırmalar yapıp, bunların suyun sıçramasına etki edip etmeyeceğini, ediyorsa nasıl ettiğini araştıracağız. Çeşitli geometrik şekilleri suya atacağız ve tek tek ölçümlerini yapacağız. Bu su sıçramasını nasıl en aza indirebiliriz ona bakacağız. Bu ölçümleri yapmamızda kamera bizim için çok büyük bir işlev yapacak. Tabi ki tam ölçümü yapabilmek için ağır çekim ve cetvel kullanacağız.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1. http://eskola.hfd.hr/icm/download/IYPT2008/7.%20Making%20a%20splash.pdf
+2. http://aip.scitation.org/doi/10.1063/1.1709031
+3. https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvV2ViZXJfbnVtYmVy
+4. http://webders.net/438/adezyon-ve-kohezyon-nedir.html
